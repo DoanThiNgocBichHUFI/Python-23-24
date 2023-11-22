@@ -22,3 +22,4 @@ plt.scatter(Kmean.cluster_centers_[1][0], Kmean.cluster_centers_[1][1], s=100, c
 plt.show()
 
 print(Kmean.labels_)
+
