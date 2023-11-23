@@ -1,0 +1,8 @@
+- gán file.
+-phân cụm.
+-áp mô hình vào dự báo nhãn.
+-tính kh cách giữa các cụm
+
+knn
+- tính kh cách
+- xem sl nhãn gần nhất -> nhãn mới 
